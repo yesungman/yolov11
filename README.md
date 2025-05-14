@@ -1,7 +1,7 @@
 ##### 인공지능
 ### 마크다운 방법
 ### 구리고등학교
-### 1학년
+### 마크다운으로 이미지 넣는 법 (테스트)
 ![image](https://github.com/user-attachments/assets/ecab8930-7cc6-4a27-b3ff-583a8dbcb071)
 # 구구단 출력 코드
 ```bash
